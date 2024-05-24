@@ -1,3 +1,3 @@
 ## Getting Started  
-A NextJS starter template to assist when starting a new NextJS project
+A project to demo the dialog HTML element....work in progress
 
